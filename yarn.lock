@@ -356,10 +356,10 @@ ansi-styles@^4.0.0, ansi-styles@^4.1.0:
   dependencies:
     color-convert "^2.0.1"
 
-ant-design-vue@^2.1.2:
-  version "2.1.2"
-  resolved "https://registry.npm.taobao.org/ant-design-vue/download/ant-design-vue-2.1.2.tgz#2065d7e63199c0c584919458af57b6a0b597f677"
-  integrity sha1-IGXX5jGZwMWEkZRYr1e2oLWX9nc=
+ant-design-vue@^2.1.4:
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/ant-design-vue/-/ant-design-vue-2.1.4.tgz#631595573794abb3d359552d0c31f0ee1bd8bf8f"
+  integrity sha512-Ikh5yyEkiGeWwSU15PND6BD6wWZ72q4ATmri1VdOr0/RSYVQ/soPLYk4Db362pvyNruI65sy1lzK5cGtzbqvMA==
   dependencies:
     "@ant-design-vue/use" "^0.0.1-0"
     "@ant-design/icons-vue" "^6.0.0"
@@ -369,7 +369,6 @@ ant-design-vue@^2.1.2:
     async-validator "^3.3.0"
     dom-align "^1.10.4"
     dom-scroll-into-view "^2.0.0"
-    is-mobile "^2.2.1"
     lodash-es "^4.17.15"
     moment "^2.27.0"
     omit.js "^2.0.0"
@@ -1514,11 +1513,6 @@ is-installed-globally@^0.3.1:
   dependencies:
     global-dirs "^2.0.1"
     is-path-inside "^3.0.1"
-
-is-mobile@^2.2.1:
-  version "2.2.2"
-  resolved "https://registry.npm.taobao.org/is-mobile/download/is-mobile-2.2.2.tgz?cache=0&sync_timestamp=1614942683667&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fis-mobile%2Fdownload%2Fis-mobile-2.2.2.tgz#f6c9c5d50ee01254ce05e739bdd835f1ed4e9954"
-  integrity sha1-9snF1Q7gElTOBec5vdg18e1OmVQ=
 
 is-npm@^4.0.0:
   version "4.0.0"
